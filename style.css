@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: #221f65;
+}
+
+li { 
+    list-style-type: none;
+}
+
+a { 
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    display: flex;
+}
+
+.home-link {
+    margin-top: 10px;
+}
+
+.main-nav {
+    margin: 10px;
+}
+
+.right-links {
+    display:  flex;
+    margin-top: 10px;
+}
+
+.login {
+    margin-right: 10px;
+}
+
+.sign-up {
+    margin-right: 10px;
+}
