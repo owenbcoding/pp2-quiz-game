@@ -3,11 +3,21 @@
     padding: 0px;
 }
 
+body { 
+    font-family: 'Yuji Mai', serif;
+}
+
 nav {
     display: flex;
     padding: 20px;
-    justify-content: space-between;
     background-color: #221f65;
+    justify-content: center;
+    position: relative;
+}
+
+.first-div {
+    position: absolute;
+    left: 350px;
 }
 
 li { 
@@ -19,8 +29,30 @@ a {
     color: white;
 }
 
+a:hover {
+    color: #2cd0e2;
+}
+
 ul {
     display: flex;
+}
+
+main { 
+    height: 80vh;
+    background-color: #0E101C;
+    color: white;
+    text-align: center;
+}
+
+h1 { 
+    padding-top: 40px;
+}
+
+footer {
+    background-color: #221f65;
+    height: 100px;
+    color: white;
+    text-align: center;
 }
 
 .home-link {
@@ -31,15 +63,11 @@ ul {
     margin: 10px;
 }
 
+.footer {
+    padding-top: 40px;
+}
+
 .right-links {
     display:  flex;
-    margin-top: 10px;
-}
-
-.login {
-    margin-right: 10px;
-}
-
-.sign-up {
-    margin-right: 10px;
+    margin: 10px;
 }
