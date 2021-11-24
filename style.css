@@ -38,7 +38,7 @@ ul {
 }
 
 main { 
-    height: 80vh;
+    height: 95vh;
     background-color: #0E101C;
     color: white;
     text-align: center;
@@ -46,6 +46,50 @@ main {
 
 h1 { 
     padding-top: 40px;
+}
+
+.container {
+    padding-top: 50px;
+    display: inline-grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.div-one {
+    height: 30vh;
+    width: 40vh;
+    margin: 40px;
+    background-color: #221f65;
+    border-radius: 50% 20% / 10% 40%;
+}
+
+.card-text {
+    padding-top: 40px;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+    margin-top: 40px;
+	padding:5px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
 }
 
 footer {
@@ -65,9 +109,4 @@ footer {
 
 .footer {
     padding-top: 40px;
-}
-
-.right-links {
-    display:  flex;
-    margin: 10px;
 }
