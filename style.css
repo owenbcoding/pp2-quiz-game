@@ -54,12 +54,32 @@ h1 {
     grid-template-columns: repeat(3, 1fr);
 }
 
+.about {
+    max-width: 60vw;
+    text-align: center;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.about-text {
+    padding-top: 50px;
+}
+
 .div-one {
     height: 30vh;
     width: 40vh;
     margin: 40px;
     background-color: #221f65;
     border-radius: 50% 20% / 10% 40%;
+}
+
+.join {
+        height: 60vh;
+        width: 40vh;
+        margin: 40px;
+        background-color: #221f65;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 .card-text {
