@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Yuji+Mai&display=swap" rel="stylesheet">
 </head>
-<body>
+<body class="example">
    <header>
        <nav>
            <div class="first-div">
@@ -22,21 +22,25 @@
        </nav>
    </header>
    <main>
+        <section>
             <h1>Join here</h1>
-                <div id="flip-card">
-                <div class="join">
-                    <div class="info">
-                        <p class="card-text">Enter your name</p><br><br>
-                        <form action="/action_page.php" method="get">
-                            <input type="text" id="fname" name="fname"><br><br>
-                            <input type="submit" value="Submit">
-                        </form>
-                    </div>
-                    <!-- <div class="flip-card-back"><button id="flip-card-btn-turn-to-front" class="myButton">flip back</button>
-                    </div> -->
+            <div id="flip-card">
+            <div class="join">
+                <div class="info">
+                    <p class="card-text">Enter your name</p><br><br>
+                    <form method="get">
+                        <input type="text" id="fname" name="fname"><br><br>
+                        <input type="submit" value="Submit">
+                    </form>
+                    <p class="card-text">Enter your name to save your score</p><br><br>
+                    <form method="get">
+                        <input type="text" id="fname" name="fname"><br><br>
+                        <input type="submit" value="Submit">
+                    </form>
                 </div>
             </div>
-
+        </div>
+        </section>
    </main>
    <footer>
         <div class="footer">
@@ -44,5 +48,6 @@
             <p>copyright&copyQuiz-Game 2021.</p>
         </div>
    </footer>
+   <script src="index.js"></script>
 </body>
 </html>
