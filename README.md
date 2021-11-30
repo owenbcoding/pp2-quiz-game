@@ -29,7 +29,7 @@ Quiz-Game: ( Some text here )
 
 ## Wireframe-mockups
 - For the wire frames I used figma to get the over all design into my head then I was able do judge the sizes I needed to code for the website in css to make it responsive and then later on did the coloring in figma for the site then add the javascript logic for the user interaction by answering the questions.
-The colored version on Figma link here: 
+- The colored version on Figma link here: 
 --------------------
 ## Log in Page
 ![chrome_RvV4tUlP96](https://user-images.githubusercontent.com/43074374/144127880-1ac58edf-1a7c-400f-a391-01cd22fbcb16.png)
