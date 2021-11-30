@@ -44,7 +44,7 @@ Features <br>
 (images of website go here)
 --------------------
 ( Some text here )
-(images of website go here)#
+(images of website go here)
 --------------------
 ( Some text here )
 (images of website go here)
