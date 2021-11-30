@@ -3,17 +3,21 @@ A Javascript Quiz Game.
 
 ## Introduction
 Quiz-Game is a site where the user can play a quiz for entertainment which will generate random questions for the user.
-
-## Context
-
 ( Wireframe from I am responsive goes here)
-
 ( Link to website )
 
-Quiz-Game: ( Some text here )
-
+## Context
+<li><a href="#User Stories">User Stories</li>
+<li><a href="#Wireframe mockups"></li>
+<li><a href="#Features">Features</li>
+<li><a href="#Future enhancements">Future enhancements</li>
+<li><a href="#Testing">Testing</a></li>
+<li><a href="#Validator testing">Validator testing</a></li>
+<li><a href="#Deployment">Deployment</a></li>
+<li><a href="#Media">Media</a></li>
 
 Ux
+Quiz-Game: ( Some text here )
 
 ### User Stories
 --------------------
@@ -31,8 +35,19 @@ Ux
 ![chrome_VAIT0CvPB1](https://user-images.githubusercontent.com/43074374/144056129-b5cc6536-c8dc-4106-804f-39e3b449111d.png)
 
 Features
+( Some text here )
 (images of website go here)
 --------------------
+( Some text here )
+(images of website go here)#
+--------------------
+( Some text here )
+(images of website go here)
+--------------------
+( Some text here )
+(images of website go here)
+--------------------
+
 Future enhancements
 --------------------
 Testing
