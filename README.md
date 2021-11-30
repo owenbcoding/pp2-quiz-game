@@ -16,7 +16,7 @@ Quiz-Game is a site where the user can play a quiz for entertainment which will 
 <li><a href="#Deployment">Deployment</a></li>
 <li><a href="#Media">Media</a></li>
 
-Ux
+## Ux <br>
 Quiz-Game: ( Some text here )
 
 ### User-Stories
