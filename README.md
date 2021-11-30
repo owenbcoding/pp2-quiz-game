@@ -35,7 +35,7 @@ Quiz-Game: ( Some text here )
 ![chrome_VAIT0CvPB1](https://user-images.githubusercontent.com/43074374/144056129-b5cc6536-c8dc-4106-804f-39e3b449111d.png)
 ### Mobile-View
 ![chrome_WJCVLxPfXm](https://user-images.githubusercontent.com/43074374/144108281-cabffc96-fecd-4474-af73-86f8a4c0affe.png)
-![chrome_RdALFeLpnk](https://user-images.githubusercontent.com/43074374/144108535-e5cb317d-0a09-40d5-a051-8a4510994ddb.png)
+![chrome_Wg1xeEpSCG](https://user-images.githubusercontent.com/43074374/144111009-cd37f365-c73f-4266-a01e-3ce7f313ff61.png)
 ![chrome_i6XM29cZ6F](https://user-images.githubusercontent.com/43074374/144108755-293cd431-7202-4fb9-9eea-a1b844ba8502.png)
 
 
