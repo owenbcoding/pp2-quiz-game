@@ -28,6 +28,7 @@ Quiz-Game: ( Some text here )
 - A user should be able to see their incorrect answeres in the progress bar 
 
 ### Wireframe-mockups
+- For the wire frames I used figma to get the over all design into my head then I was able do judge the sizes I needed to code for the website in css to make it responsive and then later on did the coloring in figma for the site.
 --------------------
 ![chrome_8HAdIphn14](https://user-images.githubusercontent.com/43074374/144050653-96c5c12d-638e-4b12-9f61-1e7109991de5.png)
 ![chrome_jM27huuPRH](https://user-images.githubusercontent.com/43074374/144055164-554a849c-0f31-4e22-b5b5-dfd61a152909.png)
