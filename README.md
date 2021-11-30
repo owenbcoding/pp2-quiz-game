@@ -35,7 +35,7 @@ Quiz-Game: ( Some text here )
 ![chrome_VAIT0CvPB1](https://user-images.githubusercontent.com/43074374/144056129-b5cc6536-c8dc-4106-804f-39e3b449111d.png)
 ![chrome_Fqe18nbvW2](https://user-images.githubusercontent.com/43074374/144091601-f2e6e385-1df2-4751-9041-33a674b25236.png)
 
-Features
+Features <br>
 ( Some text here )
 (images of website go here)
 --------------------
@@ -49,14 +49,14 @@ Features
 (images of website go here)
 --------------------
 
-Future0-enhancements
+Future0-enhancements <br>
 --------------------
-Testing
+Testing  <br>
 --------------------
-Validator-testing
+Validator-testing  <br>
 --------------------
-Deployment
+Deployment  <br>
 --------------------
-Media
+Media  <br>
 --------------------
 
