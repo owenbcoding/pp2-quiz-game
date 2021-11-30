@@ -10,41 +10,6 @@
 // let questionCounter = 0 
 // let availableQuestions = []
 
-// let questions = [
-//     {
-//         question: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, adipisci.',
-//         choice1: 'Test1',
-//         choice2: 'Test2',
-//         choice3: 'Test3',
-//         choice4: 'Test4',
-//         answer: 4,
-//     },
-//     {
-//         question: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, adipisci?.',
-//         choice1: 'Test1',
-//         choice2: 'Test2',
-//         choice3: 'Test3',
-//         choice4: 'Test4',
-//         answer: 2,
-//     },
-//     {
-//         question: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, adipisci.?',
-//         choice1: 'Test1',
-//         choice2: 'Test2',
-//         choice3: 'Test3',
-//         choice4: 'Test4',
-//         answer: 2,
-//     },
-//     {
-//         question: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, adipisci?',
-//         choice1: 'Test1',
-//         choice2: 'Test2',
-//         choice3: 'Test3',
-//         choice4: 'Test4',
-//         answer: 2,
-//     }
-// ]
-
 // let sports = [
 //     {
 //           question: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, adipisci.',
