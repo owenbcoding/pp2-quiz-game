@@ -33,7 +33,11 @@ Quiz-Game: ( Some text here )
 ![chrome_jM27huuPRH](https://user-images.githubusercontent.com/43074374/144055164-554a849c-0f31-4e22-b5b5-dfd61a152909.png)
 ![chrome_wzGANJ2coP](https://user-images.githubusercontent.com/43074374/144055714-66f7fa3e-fa20-410e-bbf1-e4b72593a9ef.png)
 ![chrome_VAIT0CvPB1](https://user-images.githubusercontent.com/43074374/144056129-b5cc6536-c8dc-4106-804f-39e3b449111d.png)
-![chrome_Fqe18nbvW2](https://user-images.githubusercontent.com/43074374/144091601-f2e6e385-1df2-4751-9041-33a674b25236.png)
+### Mobile-View
+![chrome_WJCVLxPfXm](https://user-images.githubusercontent.com/43074374/144108281-cabffc96-fecd-4474-af73-86f8a4c0affe.png)
+![chrome_RdALFeLpnk](https://user-images.githubusercontent.com/43074374/144108535-e5cb317d-0a09-40d5-a051-8a4510994ddb.png)
+![chrome_i6XM29cZ6F](https://user-images.githubusercontent.com/43074374/144108755-293cd431-7202-4fb9-9eea-a1b844ba8502.png)
+
 
 Features <br>
 ( Some text here )
