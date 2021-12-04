@@ -4,63 +4,46 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Game</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Yuji+Mai&display=swap" rel="stylesheet">
+    <title>Quiz-game</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
-<body class="example">
-   <header>
-       <nav>
-           <div class="first-div">
-                <li class="home-link"><a href="index.html">Quiz-Game</a></li>
+<body>
+    <header>
+        <nav>
+            <div class="first-page">
+                <li class="first-page"><a href="index.html">Quiz-Game</a></li>
            </div>
-                <ul>
-                    <li class="main-nav"><a href="login.html">Log in</a></li>
-                    <li class="main-nav"><a href="index.html">Home</a></li>
-                    <li class="main-nav"><a href="about.html">About Quiz-Game</a></li>
-                </ul>
-       </nav>
-   </header>
-   <main class="main-content">
-       <h1>Topics</h1>
-       <div class="container">
-                    <div class="div-one">
-                        <p class="card-text">Sports</p>
-                        <button class="myButton"><a href="sports.html">Play</a></button>
+           <ul>
+                <li class="main-nav"><a href="index.html">Log in</a></li>
+                <li class="main-nav"><a href="#">Home</a></li>
+                <li class="main-nav"><a href="#">About Quiz-Game</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Quiz-Game</h1>
+        <div class="info-box">
+                <p class="info-text">Enter your name</p><br><br>
+                <form method="get">
+                    <div class="info">
+                        <input class="name" type="text" id="fname" name="fname"><br><br>
+                        <input class="myButton" type="submit" value="Submit">
                     </div>
-
-                    <div class="div-one">
-                        <p class="card-text">Movies</p>
-                        <button class="myButton"><a href="movies.html">Play</a></button>
+                </form>
+                <p class="info-text">Enter Your Total score</p><br><br>
+                <form method="post">
+                    <div class="info">
+                        <input class="name" type="text" id="fname" name="fname"><br><br>
+                        <input class="myButton" type="submit" value="Submit">
                     </div>
-                
-                    <div class="div-one">
-                        <p class="card-text">Three</p>
-                        <button>Play</button>
-                    </div>
-            
-                    <div class="div-one">
-                        <p class="card-text">Four</p>
-                        <button class="myButton">Play</button>
-                    </div>
-            
-                <div class="div-one">
-                    <p class="card-text">Five</p>
-                    <button class="myButton">Play</button>
-                </div>
-
-                <div class="div-one">
-                    <p class="card-text">Six</p>
-                    <button class="myButton">Play</button>
-                </div>
+                </form>
+                <p class="info-text">Top Score:</p>
+                <p class="info-text"><a href="#">Reset Score</a></p>
         </div>
-   </main>
-   <footer>
-        <div class="footer">
-            <p><a href="index.html">Quiz-Game</a></p>
-            <p>copyright&copyQuiz-Game 2021.</p>
-        </div>
-   </footer>
-   <script src="index.js"></script>
+    </main>
+    <footer class="footer">
+        <p><a href="index.html">Quiz-Game</a></p>
+        <p>copyright&copyQuiz-Game 2021.</p>
+      </footer>
 </body>
 </html>
