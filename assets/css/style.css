@@ -39,7 +39,7 @@ ul {
 }
 
 main { 
-    height: 85vh;
+    height: 95vh;
     background-color: #0E101C;
 }
 
@@ -83,3 +83,17 @@ form {
     padding-top: 40px;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+
+.box-one {
+    height: 35vh;
+    width: 60%;
+    margin-top: 40px;
+    margin-right: 40px;
+    background-color: #221f65;
+    border-radius: 50px;
+}
