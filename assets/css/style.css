@@ -52,10 +52,11 @@ h1,h2 {
 
 footer { 
     background-color: #221f65;
-    height: 10vh;
+    height: 6vh;
     color: white;
     text-align: center;
     padding-top: 60px;
+    padding-bottom: 50px;
 }
 
 button {
@@ -64,6 +65,16 @@ button {
 
 input {
     padding: 10px;
+    border-radius: 20px;
+}
+
+.sports {
+    height: 60vh;
+    width: 50%;
+    background-color: #221f65;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
     border-radius: 20px;
 }
 
