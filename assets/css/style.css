@@ -58,12 +58,13 @@ h1,h2 {
 }
 
 footer { 
-    background-color: #221f65;
+    background: linear-gradient(90deg, rgba(0,212,255,1) 14%, rgba(53,41,138,1) 39%);
     height: 6vh;
     color: white;
     text-align: center;
     padding-top: 60px;
     padding-bottom: 50px;
+    font-size: 1rem;
 }
 
 button {
