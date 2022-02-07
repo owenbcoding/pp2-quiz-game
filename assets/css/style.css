@@ -19,7 +19,7 @@ nav {
     padding-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    background: linear-gradient(90deg, rgba(0,212,255,1) 14%, rgba(53,41,138,1) 39%);
+    background: rgba(53,41,138,1);
 }
 
 ul {
@@ -60,11 +60,11 @@ h1,h2 {
     margin: auto;
     color: white;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 footer { 
-    background: linear-gradient(90deg, rgba(0,212,255,1) 14%, rgba(53,41,138,1) 39%);
+    background: rgba(53,41,138,1);
     height: 6vh;
     color: white;
     text-align: center;
@@ -111,6 +111,7 @@ input {
 
 .about {
     color: white;
+    padding-top: 200px;
 }
 
 .about-text { 
@@ -118,11 +119,14 @@ input {
     padding-top: 60px;
     padding-right: 30px;
     padding-left: 30px;
-    text-align: center; 
+    text-align: center;
     display: block;
     height: 20vh;
     width: 50%;
-    background-color: #221f65;
+    background-color: #21D4FD;
+    background-image: linear-gradient(
+19deg
+, #21D4FD 0%, rgba(53,41,138,1) 39%);
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
