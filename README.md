@@ -26,6 +26,7 @@ Quiz-Game: ( Some text here )
 - A user should get a score that is assigned when answered correctly 
 - A user should gain progress on each topic as they answer correctly
 - A user should be able to see their incorrect answeres in the progress bar 
+- A user should be able to refresh the page to refesh their score
 
 ## Wireframe-mockups
 - For the wire frames I used figma to get the over all design into my head then I was able do judge the sizes I needed to code for the website in css to make it responsive and then later on did the coloring in figma for the site then add the javascript logic for the user interaction by answering the questions.
