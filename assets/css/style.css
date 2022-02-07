@@ -10,23 +10,14 @@
     font-family: "Nova Square", cursive;
 }
 
-
 nav {
     display: flex;
-    justify-content: center;
     width: 100%;
     height: 8vh;
     padding-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    background: rgba(53,41,138,1);
-}
-
-ul {
-    display: inline-flex;
-    justify-content: space-evenly;
-    width: 100%;
-    vertical-align: middle;
+    background: linear-gradient(90deg, rgba(0,212,255,1) 14%, rgba(53,41,138,1) 39%);
 }
 
 li {
@@ -43,6 +34,11 @@ a {
 
 a:hover {
     color: greenyellow;
+}
+
+ul {
+    display: flex;
+    width: 4400px;
 }
 
 
@@ -64,7 +60,7 @@ h1,h2 {
 }
 
 footer { 
-    background: rgba(53,41,138,1);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 14%, rgba(53,41,138,1) 39%);
     height: 6vh;
     color: white;
     text-align: center;
@@ -80,6 +76,11 @@ button {
 input {
     padding: 10px;
     border-radius: 20px;
+}
+
+.first-page {
+    margin-left: 200px;
+    width: 400px;
 }
 
 .sports {
@@ -131,6 +132,7 @@ input {
     margin-left: auto;
     margin-right: auto;
 }
+
 
 .info-box { 
     height: 60vh;
