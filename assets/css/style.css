@@ -274,6 +274,8 @@ input {
     text-align: center;
     min-width: 80rem;
     margin-top: 5px;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, rgba(53,41,138,1) 39%);
 }
 
 
