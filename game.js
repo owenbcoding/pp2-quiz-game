@@ -13,7 +13,7 @@ let availableQuestions = {}
 
 //Setup questions Arry
 let questions = [
-     "sports", { 
+     'sports', { 
         question: 'Sports',
         choice1: '2',
         choice2: '4',
@@ -45,8 +45,9 @@ let questions = [
         choice4: '30-40%',   
         answer: 1,
     },
-    "movies",  { 
-        question: 'Movies',
+
+    'movies',  { 
+        question: 'movies',
         choice1: '2',
         choice2: '4',
         choice3: '21',
@@ -54,7 +55,7 @@ let questions = [
         answer: 2,
     },
     { 
-        question: 'Movies',
+        question: 'movies',
         choice1: '2',
         choice2: '4',
         choice3: '21',
@@ -62,7 +63,40 @@ let questions = [
         answer: 2,
     },
     { 
-        question: 'Movies',
+        question: 'movies',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
+    { 
+        question: 'movies',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
+
+    "litrature",  { 
+        question: 'litrature',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
+    { 
+        question: 'litrature',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
+    { 
+        question: 'litrature',
         choice1: '2',
         choice2: '4',
         choice3: '21',
