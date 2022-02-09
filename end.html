@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>End Game</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+           <ul>
+            <div class="first-page">
+                <li class="first-page"><a href="index.html">Quiz-Game</a></li>
+           </div>
+                <li class="main-nav"><a href="index.html">Log in</a></li>
+                <li class="main-nav"><a href="home.html">Home</a></li>
+                <li class="main-nav"><a href="about.html">About Quiz-Game</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="results">
+            <h1 id="endGame">You Played</h1>
+            <p class="hud-prefix">
+                Your score is 
+            </p>
+            <h1 class="hud-main-text" id="score">
+                0
+            </h1>
+        </div>
+    </main>
+    <footer class="footer">
+        <p><a href="index.html">Quiz-Game</a></p>
+        <p>copyright&copyQuiz-Game 2021.</p>
+      </footer>
+    <script defer>
+       localStorage.getItem('mostRecentScore'),localStorage.getItem('lastGame')
+       document.getElementById('endGame').innerText = localStorage.getItem('lastGame')
+       document.getElementById('score').innerText = localStorage.getItem('mostRecentScore')
+    </script>
+</body>
+</html>
