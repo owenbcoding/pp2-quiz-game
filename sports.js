@@ -85,3 +85,31 @@ let getNewQuestion = () => {
 
         acceptingAnswers = true
 }
+
+//listens for correct answer
+choices.forEach(choice => { 
+    choice.addEventListener('click', e => {
+        if(!acceptingAnswers) return
+
+        acceptingAnswers = false 
+        const selectedChoice = e.target
+        const slectedAnswer = parseInt(selectedChoice.dataset['number']);
+        console.log(slectedAnswer, currentQuestion.answer)
+        
+        let classToApply = slectedAnswer == currentQuestion.answer ? 'correct' :
+        'incorrect'
+
+        if(classToApply === 'correct') { 
+            score += SCORE_POINTS
+            scoreText.innerText = score
+            console.log(score)
+        }
+
+        selectedChoice.parentElement.classList.add(classToApply)
+
+        setTimeout(() => { 
+            selectedChoice.parentElement.classList.remove(classToApply)
+            getNewQuestion()
+        }, 1000)
+    })
+})
