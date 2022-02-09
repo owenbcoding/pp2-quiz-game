@@ -83,6 +83,10 @@ input {
     width: 400px;
 }
 
+.topics { 
+  padding-top: 130px;
+}
+
 .sports {
     height: 50vh;
     width: 50%;
@@ -147,10 +151,10 @@ input {
 }
 
 .info-text {
-    text-align: center;
-    color: white;
-    padding-top: 20px;
-    font-size: 20px;
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  font-size: 2rem;
 }
 
 .container {
