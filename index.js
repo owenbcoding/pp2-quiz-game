@@ -1,8 +1,8 @@
-// function submitName (){
-//     localStorage.setItem('uersname',document.getElementById('username').value);
-//      window.location.href="home.html";
-//  }
+function submitName (){
+    localStorage.setItem('uersname',document.getElementById('username').value);
+     window.location.href="home.html";
+ }
  
-//  window.onload = function(){
-//      let username = localStorage.getItem('username');
-//  }
+ window.onload = function(){
+     let username = localStorage.getItem('username');
+ }
