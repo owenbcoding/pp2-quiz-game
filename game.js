@@ -13,8 +13,8 @@ let availableQuestions = {}
 
 //Setup questions Arry
 let questions = [
-    { 
-        question: 'What is 2 + 2?',
+     "sports", { 
+        question: 'Sports',
         choice1: '2',
         choice2: '4',
         choice3: '21',
@@ -22,7 +22,7 @@ let questions = [
         answer: 2,
     },
     { 
-        question: 'The tallest building in the world is located in wich city?',
+        question: 'Sports',
         choice1: 'Dubai',
         choice2: 'New York',
         choice3: 'Shanghai',
@@ -30,7 +30,7 @@ let questions = [
         answer: 1,
     },
     { 
-        question: 'What precet of American adules blieve that cholocate milk comes from brown cows?',
+        question: 'Sports',
         choice1: '20%',
         choice2: '18%',
         choice3: '7%',
@@ -38,13 +38,37 @@ let questions = [
         answer: 3,
     },
     { 
-        question: 'Approximately what percent of U.S power outages are caused by squirrels?',
+        question: 'Sports',
         choice1: '10-20%',
         choice2: '5-10%',
         choice3: '15-20%',
         choice4: '30-40%',   
         answer: 1,
-    }
+    },
+    "movies",  { 
+        question: 'Movies',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
+    { 
+        question: 'Movies',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
+    { 
+        question: 'Movies',
+        choice1: '2',
+        choice2: '4',
+        choice3: '21',
+        choice4: '17',   
+        answer: 2,
+    },
 ]
 
 //Defining Constants
