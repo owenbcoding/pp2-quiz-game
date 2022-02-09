@@ -46,3 +46,7 @@ let questions = [
         answer: 1,
     }
 ]
+
+//Defining Constants
+const SCORE_POINTS = 100 
+const MAX_QUESTIONS = 4
