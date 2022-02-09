@@ -314,6 +314,10 @@ input {
     color: greenyellow;
 }
 
+.results {
+  margin-top: 400px;
+}
+
 .correct {
   background: linear-gradient(
     32deg,
