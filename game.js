@@ -91,27 +91,27 @@ let questions = {
             answer: 2,
         },
         {
-            question: 'litrature question 2',
-            choice1: '1',
-            choice2: '2',
-            choice3: '3',
-            choice4: '4',
+            question: 'Who wrote The Girl on the Train?',
+            choice1: 'A.J. Finn',
+            choice2: ' Paula Hawkins',
+            choice3: 'Ruth Ware',
+            choice4: 'Sophie Hannah',
             answer: 2,
         },
         {
-            question: 'litrature question 3',
-            choice1: '1',
-            choice2: '2',
-            choice3: '3',
-            choice4: '4',
+            question: 'How many acts are in Romeo and Juliet?',
+            choice1: ' Two',
+            choice2: 'Five',
+            choice3: 'Four',
+            choice4: 'Three',
             answer: 2,
         },
         {
-            question: 'litrature question 4',
-            choice1: '1',
-            choice2: '2',
-            choice3: '3',
-            choice4: '4',
+            question: 'Sir Walter Scott is known for his historical novels about which country?',
+            choice1: 'Ireland',
+            choice2: 'Scotland',
+            choice3: 'Wales',
+            choice4: 'England',
             answer: 2,
         },
     ]
@@ -139,7 +139,6 @@ document.addEventListener('DOMContentLoaded', startGame);
 
 //When A questions is answered gets new question
 let getNewQuestion = () => {
-    console.log(availableQuestions[0].question);
     if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
         localStorage.setItem('lastGame', "sports")
@@ -151,11 +150,8 @@ let getNewQuestion = () => {
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`
 
     const questionIndex = Math.floor(Math.random() * availableQuestions.length)
-    console.log(questionIndex);
     currentQuestion = availableQuestions[questionIndex]
-    console.log(currentQuestion);
     question.innerText = currentQuestion.question
-    console.log(currentQuestion.question);
 
     choices.forEach(choice => {
         const number = choice.dataset['number']
