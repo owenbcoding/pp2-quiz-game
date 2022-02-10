@@ -58,9 +58,13 @@ This is what the about page looks like
 ![chrome_k4kLN5Eurm](https://user-images.githubusercontent.com/43074374/153359879-9a1f6d60-09c5-4e3a-a15c-52dbe83f5c6c.png)
 --------------------
 ## Testing  <br>
+I have tested the site in chrome, firefox and brave all looks good.
 --------------------
 ## Validator-testing  <br>
+When I Ran the website on HTML w3c validator passes I only got one error
+When I Ran the website on CSS w3c validator passes I only got one error
 --------------------
 ## Deployment  <br>
+For Deploying the Site I used github pages.
 --------------------
 
