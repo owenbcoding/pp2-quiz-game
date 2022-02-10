@@ -42,9 +42,10 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 - This is the about page 
 ![chrome_Xc5qY4KPhf](https://user-images.githubusercontent.com/43074374/153358153-96b7402c-4caa-4ab1-bf1b-974f5bb1e0f4.png)
 ## Mobile-View
-
+- This is the mobile view of the site
+![chrome_bGfdlz8O9N](https://user-images.githubusercontent.com/43074374/153358338-13899c93-6044-49da-b119-7f853aff6f54.png)
 ## Features <br>
-( Some text here )
+Useres will be displayed with a login page
 (images of website go here)
 --------------------
 ( Some text here )
