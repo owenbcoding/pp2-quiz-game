@@ -1,5 +1,6 @@
 # pp2-quiz-game
 A Javascript Quiz Game.
+Site link = https://eoghankbdev.github.io/pp2-quiz-game/index.html
 
 ## Introduction
 Quiz-Game is a site where the user can play a quiz for entertainment and interactivity which will generate random questions for the user. 
