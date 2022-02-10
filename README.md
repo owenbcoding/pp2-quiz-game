@@ -21,7 +21,7 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 
 ## User-Stories
 --------------------
-- A user should be able to input their data name to login
+- A user should be able to input their name to login
 - A user should be able to play and choose from multiple to topics to answer
 - A user should get a score that is assigned when answered correctly 
 - A user should gain progress on each topic as they answer correctly 
