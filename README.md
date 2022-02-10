@@ -34,7 +34,7 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 ## Log in Page
 ![chrome_HPz1vdDiMU](https://user-images.githubusercontent.com/43074374/153352983-203a4928-6e73-46cb-aa9e-f034724df3c5.png)
 ## Home Page
-
+![chrome_gfR8VgbBJU](https://user-images.githubusercontent.com/43074374/153353755-7d09aaa8-be64-46cb-88ac-df91dcff5ae3.png)
 ## Play Quiz Game page
 
 ## About Page
