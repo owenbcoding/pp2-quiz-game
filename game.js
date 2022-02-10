@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', startGame);
 let getNewQuestion = () => {
     if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score)
-        localStorage.setItem('lastGame', "sports")
+        localStorage.setItem('lastGame', game)
 
         return window.location.assign('/end.html')
     }
