@@ -24,8 +24,7 @@ Quiz-Game: ( Some text here )
 - A user should be able to input their data name to login
 - A user should be able to play and choose from multiple to topics to answer
 - A user should get a score that is assigned when answered correctly 
-- A user should gain progress on each topic as they answer correctly
-- A user should be able to see their incorrect answeres in the progress bar 
+- A user should gain progress on each topic as they answer correctly 
 - A user should be able to refresh the page to refesh their score
 
 ## Wireframe-mockups
