@@ -63,6 +63,4 @@ This is what the about page looks like
 --------------------
 ## Deployment  <br>
 --------------------
-## Media  <br>
---------------------
 
