@@ -59,6 +59,7 @@ This is what the about page looks like
 --------------------
 ## Testing  <br>
 I have tested the site in chrome, firefox and brave all looks good.
+![chrome_1phiD7mMd8](https://user-images.githubusercontent.com/43074374/153362314-e8077029-fd02-44f7-9d1a-40a5d3b7681b.png)
 --------------------
 ## Validator-testing  <br>
 When I Ran the website on HTML w3c validator passes I only got one error
