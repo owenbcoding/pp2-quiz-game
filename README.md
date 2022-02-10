@@ -55,7 +55,7 @@ This is what the Game page looks like
 ![chrome_fTBDrGR8RO](https://user-images.githubusercontent.com/43074374/153359474-b5c85b45-1e32-40b9-aa3e-f37a8d066242.png)
 --------------------
 This is what the about page looks like
-(images of website go here)
+![chrome_k4kLN5Eurm](https://user-images.githubusercontent.com/43074374/153359879-9a1f6d60-09c5-4e3a-a15c-52dbe83f5c6c.png)
 --------------------
 ## Testing  <br>
 --------------------
