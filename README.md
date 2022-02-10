@@ -36,6 +36,7 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 ## Home Page
 ![chrome_gfR8VgbBJU](https://user-images.githubusercontent.com/43074374/153353755-7d09aaa8-be64-46cb-88ac-df91dcff5ae3.png)
 ## Play Quiz Game page
+- Thse are hidden pages when you click on play sports movies or litrature you will get a page of questions
 
 ## About Page
 
