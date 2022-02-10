@@ -49,7 +49,7 @@ This is what the login page looks like
 ![chrome_sEwNZnJiBn](https://user-images.githubusercontent.com/43074374/153358766-5b08c6aa-3ac0-418b-839e-0ac328f06e79.png)
 --------------------
 This is what the home page looks like
-(images of website go here)
+![chrome_g1pUfmf4L1](https://user-images.githubusercontent.com/43074374/153359221-96ba50e4-84d5-4c5a-a1c7-1771b0d7cd33.png)
 --------------------
 This is what the Game page looks like
 (images of website go here)
