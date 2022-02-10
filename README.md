@@ -32,7 +32,7 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 - The colored version on Figma link here: 
 --------------------
 ## Log in Page
-
+![chrome_HPz1vdDiMU](https://user-images.githubusercontent.com/43074374/153352983-203a4928-6e73-46cb-aa9e-f034724df3c5.png)
 ## Home Page
 
 ## Play Quiz Game page
@@ -53,9 +53,6 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 --------------------
 ( Some text here )
 (images of website go here)
---------------------
-
-## Future0-enhancements <br>
 --------------------
 ## Testing  <br>
 --------------------
