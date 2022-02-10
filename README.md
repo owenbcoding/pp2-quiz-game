@@ -45,16 +45,16 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 - This is the mobile view of the site
 ![chrome_bGfdlz8O9N](https://user-images.githubusercontent.com/43074374/153358338-13899c93-6044-49da-b119-7f853aff6f54.png)
 ## Features <br>
-Useres will be displayed with a login page
+This is what the login page looks like
+![chrome_sEwNZnJiBn](https://user-images.githubusercontent.com/43074374/153358766-5b08c6aa-3ac0-418b-839e-0ac328f06e79.png)
+--------------------
+This is what the home page looks like
 (images of website go here)
 --------------------
-( Some text here )
+This is what the Game page looks like
 (images of website go here)
 --------------------
-( Some text here )
-(images of website go here)
---------------------
-( Some text here )
+This is what the about page looks like
 (images of website go here)
 --------------------
 ## Testing  <br>
