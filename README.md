@@ -34,17 +34,19 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 - For the wire frames I used figma to get the over all design into my head then I was able do judge the sizes I needed to code for the website in css to make it responsive and then later on did the coloring in figma for the site then add the javascript logic for the user interaction by answering the questions.
 - The colored version on Figma link here: 
 --------------------
-## Log in Page
+## Log in Page ( WireFrame )
+- This is the wireframe for the Login page
 ![chrome_HPz1vdDiMU](https://user-images.githubusercontent.com/43074374/153352983-203a4928-6e73-46cb-aa9e-f034724df3c5.png)
-## Home Page
+## Home Page ( WireFrame )
+- This is the wireframe for the login page
 ![chrome_gfR8VgbBJU](https://user-images.githubusercontent.com/43074374/153353755-7d09aaa8-be64-46cb-88ac-df91dcff5ae3.png)
-## Play Quiz Game page
+## Play Quiz Game page ( WireFrame )
 - Thse are hidden pages when you click on play sports movies or litrature you will get a page of questions
 ![chrome_eAUUIOHUd7](https://user-images.githubusercontent.com/43074374/153355273-123b5045-c5dc-4f0f-b95b-e183cf6534db.png)
-## About Page
+## About Page ( WireFrame )
 - This is the about page 
 ![chrome_Xc5qY4KPhf](https://user-images.githubusercontent.com/43074374/153358153-96b7402c-4caa-4ab1-bf1b-974f5bb1e0f4.png)
-## Mobile-View
+## Mobile-View ( WireFrame )
 - This is the mobile view of the site
 ![chrome_bGfdlz8O9N](https://user-images.githubusercontent.com/43074374/153358338-13899c93-6044-49da-b119-7f853aff6f54.png)
 ## Features <br>
