@@ -71,7 +71,7 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
  - When I Ran the website on CSS w3c validator passes I only got one error
 --------------------
 ## Deployment  <br>
- - For Deploying the Site I used github pages.
+ - For Deploying the Site I used github pages. Got to settings on you Repo > On the left side bar click on pages then pick the source and save it
  - ![chrome_9VxQQJLLQI](https://user-images.githubusercontent.com/43074374/153521833-356a8ed4-fc12-4c26-a0cf-15b7e2559d20.png)
 --------------------
 
