@@ -1,6 +1,8 @@
 # pp2-quiz-game
 A Javascript Quiz Game.
 Site link = https://eoghankbdev.github.io/pp2-quiz-game/index.html
+This is the what it looks like on Am I resonsive
+![chrome_msik6KAYA9](https://user-images.githubusercontent.com/43074374/153521044-b82c199b-2cb1-4992-ae3e-3546a11fa32f.png)
 
 ## Introduction
 Quiz-Game is a site where the user can play a quiz for entertainment and interactivity which will generate random questions for the user. 
