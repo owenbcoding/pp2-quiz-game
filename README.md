@@ -17,7 +17,6 @@ Quiz-Game is a site where the user can play a quiz for entertainment and interac
 <li><a href="#Testing">Testing</a></li>
 <li><a href="#Validator-testing">Validator testing</a></li>
 <li><a href="#Deployment">Deployment</a></li>
-<li><a href="#Media">Media</a></li>
 
 ## Ux <br>
 Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the answeres to the questions and progress by getting a score mark and you will be able to see your progress as you go.
