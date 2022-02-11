@@ -71,6 +71,6 @@ When I Ran the website on HTML w3c validator passes I only got one error
 When I Ran the website on CSS w3c validator passes I only got one error
 --------------------
 ## Deployment  <br>
-For Deploying the Site I used github pages.
+ - For Deploying the Site I used github pages.
 --------------------
 
