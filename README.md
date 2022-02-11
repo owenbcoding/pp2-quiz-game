@@ -72,5 +72,6 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 --------------------
 ## Deployment  <br>
  - For Deploying the Site I used github pages.
+ - ![chrome_9VxQQJLLQI](https://user-images.githubusercontent.com/43074374/153521833-356a8ed4-fc12-4c26-a0cf-15b7e2559d20.png)
 --------------------
 
