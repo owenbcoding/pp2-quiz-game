@@ -143,7 +143,7 @@ let getNewQuestion = () => {
         localStorage.setItem('mostRecentScore', score)
         localStorage.setItem('lastGame', game)
 
-        return window.location.assign('/end.html')
+        return window.location.assign('pp2-quiz-game/end.html')
     }
     questionCounter++
     progressText.innerText = `Question ${questionCounter} of ${MAX_QUESTIONS}`
