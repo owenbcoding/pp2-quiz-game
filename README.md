@@ -66,6 +66,7 @@ Quiz-Game: Quiz-Game Is a Entertaining and fun game where you can figure out the
 ![chrome_1phiD7mMd8](https://user-images.githubusercontent.com/43074374/153362314-e8077029-fd02-44f7-9d1a-40a5d3b7681b.png)
 
  - The only other bug I have found after the website was published was when you finished a game I got a 404 error page instead of it showing the results
+ - The other bug that I have found was when you finish one of the games was that it doesnt give you the results page at the end of game and errors out to a 404 page but when you run the site locally it works on the local, so which ever way the end point is for the end page in the javascript will have to be fixed.
 --------------------
 ## Validator-testing  <br>
  - When I Ran the website on HTML w3c validator passes I only got one error 
